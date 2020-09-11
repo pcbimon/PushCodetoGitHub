@@ -21,6 +21,7 @@
 5. เพิ่มไฟล์ที่มีอยู่ใน Project ทั้งหมด (ไฟล์ที่ถูก ignore จะไม่เพิ่มเข้าไป)
 
 ```git add .```
+
 6. Commit เข้า Git
 
 ```git commit -m "First commit"```
