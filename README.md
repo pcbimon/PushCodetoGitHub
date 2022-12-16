@@ -8,7 +8,7 @@
 
 2. เพิ่ม Github repository URL
 
-```git remote add origin https://github.com/pcbimon/testgit```
+```git remote add origin https://github.com/usr/repoitory```
 
 3. เช็ค Github repository URL
 
@@ -16,7 +16,7 @@
 
 4. pull ไฟล์ git ignore 
 
-```git pull origin master```
+```git pull origin main```
 
 5. เพิ่มไฟล์ที่มีอยู่ใน Project ทั้งหมด (ไฟล์ที่ถูก ignore จะไม่เพิ่มเข้าไป)
 
@@ -28,4 +28,4 @@
 
 7. Push เข้า Github
 
-```git push origin master```
+```git push origin main```
